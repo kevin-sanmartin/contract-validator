@@ -12,7 +12,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
 	return (
 		<html lang="en">
-			<body>{children}</body>
+			{/* suppressHydrationWarning is set to true because of warning
+            due to jsPDF or html2canvas injecting extra attributes to body tag */}
+			<body suppressHydrationWarning>{children}</body>
 		</html>
 	);
 }
