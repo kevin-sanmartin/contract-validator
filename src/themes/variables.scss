@@ -1,0 +1,18 @@
+@import "@Themes/constants.scss";
+
+:root {
+	--screen-l: #{$screen-l};
+	--screen-m: #{$screen-m};
+	--screen-s: #{$screen-s};
+	--screen-m: #{$screen-xs};
+
+	/* FONTS */
+	--font-family-primary: #{$font-family-primary};
+	--font-family-secondary: #{$font-family-secondary};
+
+	/* SHADOWS */
+	--box-shadow: #{$box-shadow};
+}
+
+[theme-mode="dark"] {
+}
