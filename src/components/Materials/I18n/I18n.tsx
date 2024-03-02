@@ -31,6 +31,7 @@ export default function I18n({ map, vars }: IProps) {
 			});
 		}
 
+		if (!newValue) newValue = map;
 		setValue(newValue);
 	}, [map, vars]);
 
