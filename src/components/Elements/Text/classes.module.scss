@@ -1,0 +1,68 @@
+.root {
+	color: black;
+	font-family: var(--font-family-primary);
+
+	&.weight-regular {
+		font-weight: 400;
+	}
+
+	&.weight-medium {
+		font-weight: 500;
+	}
+
+	&.weight-semibold {
+		font-weight: 600;
+	}
+
+	&.weight-bold {
+		font-weight: 700;
+	}
+
+	&.weight-extrabold {
+		font-weight: 800;
+	}
+
+	&.font-style-italic {
+		font-style: italic;
+	}
+
+	&.font-style-normal {
+		font-style: normal;
+	}
+}
+
+.h1,
+.h2 {
+	font-family: var(--font-family-secondary);
+}
+
+.h1 {
+	font-size: 125px;
+	letter-spacing: 6px;
+}
+
+.h2 {
+	font-size: 40px;
+	letter-spacing: 6px;
+}
+
+.h3 {
+	font-size: 16px;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+}
+
+.p,
+.span {
+	&.size-large {
+		font-size: 22px;
+	}
+
+	&.size-medium {
+		font-size: 18px;
+	}
+
+	&.size-small {
+		font-size: 14px;
+	}
+}
