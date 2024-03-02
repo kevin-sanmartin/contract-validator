@@ -6,7 +6,7 @@ import Typography, {
 	ETypographyWeight,
 	ETypographyFontStyle,
 	ETypographySize,
-} from "@Components/Elements/Text";
+} from "@Components/Elements/Typography";
 import I18n from "@Components/Materials/I18n/I18n";
 
 // Styles
