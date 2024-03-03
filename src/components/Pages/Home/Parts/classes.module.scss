@@ -1,0 +1,26 @@
+.root {
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+
+	.content {
+		display: flex;
+		flex-direction: column;
+		gap: 54px;
+
+		.photographer-infos,
+		.buyer-infos {
+			display: flex;
+			flex-direction: column;
+			gap: 8px;
+		}
+
+		.and-image {
+			margin: 0 auto;
+		}
+	}
+}
+
+.text-align-center {
+	text-align: center;
+}

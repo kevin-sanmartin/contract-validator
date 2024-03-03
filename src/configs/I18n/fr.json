@@ -8,6 +8,28 @@
 				"conditions": "Conditions<br/>contractuelles",
 				"contract": "Contrat",
 				"prestation": "Prestation photo portrait social<br/>par Megane Guisnet Photographe"
+			},
+			"parts": {
+				"uppertitle": "Art. 1",
+				"title": "Parties",
+				"photographer": "D'une part,<br/>la photographe",
+				"photographer_infos": {
+					"name": "Madame Mégane Guisnet",
+					"birth": "Née le 07 Septembre 1994 à Avallon (89)",
+					"address": "Domiciliée au 151 Avenue de Grasse 06580 Pegomas",
+					"email": "Courriel de correspondance : meganeguisnet@gmail.com",
+					"phone": "Téléphone: 0761732005",
+					"siret": "Siret: 843 118274 00011 - 151 avenue de Grasse 06580 Pégomas"
+				},
+				"client": "D'autre part,<br/>le client",
+				"buyer": "personne qui achète la prestation",
+				"buyer_infos": {
+					"name": "Civilité, Nom & Prénom :",
+					"birthdate": "Date de naissance :",
+					"address": "Adresse complète :",
+					"email": "Courriel de correspondance :",
+					"phone": "Téléphone :"
+				}
 			}
 		}
 	}
