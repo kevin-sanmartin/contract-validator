@@ -42,7 +42,7 @@ type IProps = PropsWithChildren & {
 const Typography: React.FC<IProps> = ({
 	type,
 	weight = ETypographyWeight.REGULAR,
-	size = ETypographySize.SMALL,
+	size = ETypographySize.MEDIUM,
 	fontStyle = ETypographyFontStyle.NORMAL,
 	className,
 	children,
