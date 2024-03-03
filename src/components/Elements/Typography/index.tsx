@@ -24,6 +24,7 @@ export enum ETypographyWeight {
 	SEMIBOLD = "semibold",
 	MEDIUM = "medium",
 	REGULAR = "regular",
+	LIGHT = "light",
 }
 
 export enum ETypographyFontStyle {
