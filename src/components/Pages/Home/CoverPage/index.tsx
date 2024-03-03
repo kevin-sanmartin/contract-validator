@@ -1,5 +1,4 @@
 import React from "react";
-import classNames from "classnames";
 
 // Components
 import Typography, { ETypographyType } from "@Components/Elements/Typography";
@@ -11,27 +10,21 @@ import classes from "./classes.module.scss";
 const CoverPage: React.FC = () => {
 	return (
 		<section className={classes["root"]}>
-			<Typography
-				type={ETypographyType.H3}
-				className={classes["text-align-center"]}>
+			<Typography type={ETypographyType.H3} isCentered>
 				<I18n map="pages.home.cover.conditions" />
 			</Typography>
 
 			<div className={classes["title-container"]}>
 				<Typography
 					type={ETypographyType.H1}
-					className={classNames(
-						classes["title"],
-						classes["text-align-center"],
-					)}>
+					className={classes["title"]}
+					isCentered>
 					<I18n map="pages.home.cover.contract" />
 				</Typography>
 
 				<div className={classes["shape"]} />
 
-				<Typography
-					type={ETypographyType.H3}
-					className={classNames(classes["text-align-center"])}>
+				<Typography type={ETypographyType.H3} isCentered>
 					<I18n map="pages.home.cover.prestation" />
 				</Typography>
 			</div>

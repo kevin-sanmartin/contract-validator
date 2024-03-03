@@ -22,9 +22,7 @@ const Parts: React.FC = () => {
 			/>
 
 			<div className={classes["content"]}>
-				<Typography
-					type={ETypographyType.H3}
-					className={classes["text-align-center"]}>
+				<Typography type={ETypographyType.H3} isCentered>
 					<I18n map="pages.home.parts.photographer" />
 				</Typography>
 
@@ -58,16 +56,14 @@ const Parts: React.FC = () => {
 				/>
 
 				<div className={classes["client-title-container"]}>
-					<Typography
-						type={ETypographyType.H3}
-						className={classes["text-align-center"]}>
+					<Typography type={ETypographyType.H3} isCentered>
 						<I18n map="pages.home.parts.client" />
 					</Typography>
 					<Typography
 						type={ETypographyType.P}
 						weight={ETypographyWeight.LIGHT}
 						fontStyle={ETypographyFontStyle.ITALIC}
-						className={classes["text-align-center"]}>
+						isCentered>
 						<I18n map="pages.home.parts.buyer" />
 					</Typography>
 				</div>
