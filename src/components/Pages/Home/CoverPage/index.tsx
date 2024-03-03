@@ -10,7 +10,7 @@ import classes from "./classes.module.scss";
 
 const CoverPage: React.FC = () => {
 	return (
-		<div className={classes["root"]}>
+		<section className={classes["root"]}>
 			<Typography
 				type={ETypographyType.H3}
 				className={classes["text-align-center"]}>
@@ -37,7 +37,7 @@ const CoverPage: React.FC = () => {
 			</div>
 
 			<div className={classes["for-flex"]} />
-		</div>
+		</section>
 	);
 };
 
