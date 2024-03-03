@@ -30,6 +30,21 @@
 					"email": "Courriel de correspondance :",
 					"phone": "Téléphone :"
 				}
+			},
+			"object": {
+				"uppertitle": "Art. 2",
+				"title": "Objet",
+				"contract_object": "Objet du contrat",
+				"prestation": "Prestation photographique de portrait social",
+				"modifications": "Toute modification donnera lieu à la signature d'un avenant, ou résultera d'un échange de courriels entre les Parties, portant la mention ”Bon pour accord” de chacune d'elles.",
+				"seance": {
+					"date": "Date de la séance :",
+					"time": "Horaire de la séance :",
+					"location": "Lieu de la séance :"
+				},
+				"important": "Attention, le Client s'engage à signaler tout changement de lieu de shooting. Ce changement est soumis à l'accord du Photographe et susceptible d'entraîner pour le Client des frais supplémentaires.",
+				"people": "Personne(s) photographiée(s)<br/>durant la séance: nom / prénom<br/>et specification age si mineur",
+				"style": "Le Client déclare connaître le style du Photographe. Aucune demande ne pourra par conséquent être formulée à l'encontre du Photographe sur le prétexte que le style des photographies ne conviendrait pas au Client ou aux personnes représentées."
 			}
 		}
 	}
