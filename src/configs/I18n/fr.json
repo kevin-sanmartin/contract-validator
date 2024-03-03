@@ -1,5 +1,14 @@
 {
 	"common": {
 		"hello": "Bonjour, {{name}}!"
+	},
+	"pages": {
+		"home": {
+			"cover": {
+				"conditions": "Conditions<br/>contractuelles",
+				"contract": "Contrat",
+				"prestation": "Prestation photo portrait social<br/>par Megane Guisnet Photographe"
+			}
+		}
 	}
 }

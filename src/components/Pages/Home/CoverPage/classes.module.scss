@@ -1,0 +1,34 @@
+.root {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100vh;
+	width: 100%;
+
+	.text-align-center {
+		text-align: center;
+	}
+
+	.title-container {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		gap: 12px;
+
+		.title {
+			position: absolute;
+			z-index: 1;
+			top: 60%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}
+
+		.shape {
+			width: 200px;
+			height: 400px;
+			background-color: #d7d1c5;
+		}
+	}
+}
