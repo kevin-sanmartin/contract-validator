@@ -37,6 +37,7 @@ type IProps = PropsWithChildren & {
 	size?: ETypographySize;
 	weight?: ETypographyWeight;
 	fontStyle?: ETypographyFontStyle;
+	isCentered?: boolean;
 	className?: string;
 };
 
@@ -45,6 +46,7 @@ const Typography: React.FC<IProps> = ({
 	weight = ETypographyWeight.REGULAR,
 	size = ETypographySize.MEDIUM,
 	fontStyle = ETypographyFontStyle.NORMAL,
+	isCentered = false,
 	className,
 	children,
 }) => {
@@ -55,6 +57,7 @@ const Typography: React.FC<IProps> = ({
 			classes[`size-${size}`],
 			classes[`weight-${weight}`],
 			classes[`font-style-${fontStyle}`],
+			{ [classes["centered"]!]: isCentered },
 			className,
 		),
 		children: children,
