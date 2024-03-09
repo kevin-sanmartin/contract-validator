@@ -45,6 +45,54 @@
 				"important": "Attention, le Client s'engage à signaler tout changement de lieu de shooting. Ce changement est soumis à l'accord du Photographe et susceptible d'entraîner pour le Client des frais supplémentaires.",
 				"people": "Personne(s) photographiée(s)<br/>durant la séance: nom / prénom<br/>et specification age si mineur",
 				"style": "Le Client déclare connaître le style du Photographe. Aucune demande ne pourra par conséquent être formulée à l'encontre du Photographe sur le prétexte que le style des photographies ne conviendrait pas au Client ou aux personnes représentées."
+			},
+			"livrable": {
+				"uppertitle": "Art. 3",
+				"title": "Collections & Livrables",
+				"subtitle": "Collections & Livrables retenus - Paiement<br/>Renonciation au droit de rétractation",
+				"tva": "La Photographe déclare que la TVA <strong>n'est pas applicable</strong> à cette opération (art 293.B du CGI). Tous les prix indiqués sont donc HT.",
+				"seance": "3.1 déroulé des séances",
+				"price_warranted": "Le Client reconnaît que les prix contenus dans ce contrat ne sont garantis que vingt-et-un (21) jours à partir du moment de l'envoi de ce contrat. Tout retour du contrat signé par le Client après ce délai pourra faire l'objet d'une réévaluation du prix de la prestation et/ou d'un refus du Photographe.",
+				"process": "Les premiers échanges se font par mail puis par téléphone.  Après versement des frais de séances, les deux partis trouvent ensemble un lieu qui correspond, selon les envies du client. La photographe donne ses conseils sur les tenues, l'horaire la plus adaptée. Le jour de la séance la photographe  guide les Clients pour qu'ils  passent un merveilleux moment, à l'aise sans stress.<br/>Après la séance la Photographe vous délivre une galerie en ligne privée avec les images triées et éditées afn que les Client choisissent leur formule photo numérique. Une fois le montant de la formule photo reçu par la Photographe ainsi que les numéros des images que les Clients souhaitent, la Photographe fera une nouvelle galerie afin que les Clients puissent télécharger leurs images.",
+				"unique_price": "3.2 tarif unique",
+				"fees": "Il s'agit d'un tarif unique pour tout type de séance. Des frais de séances à régler à réservation. Une formule photo à choisir après la séance avec un minimum de 5 photos obligatoire.",
+				"perimeter": "A votre domicile, en extérieur dans un périmètre de 30km autour de Grasse.<br/>45 minutes à 1h30 de séance photo.",
+				"seance_prices": {
+					"reservation": "120 (cent-vingt) euros de Frais de séance.",
+					"reservation_description": "(Valent pour réservation/ acompte , temps de séance et déplacement dans un périmètre de 30 km autour de Grasse.)",
+					"formula": "Formule photo à choisir après la séance.",
+					"five_pictures": "5 photos numérique : <strong>60 euros (base obligatoire)</strong>",
+					"ten_pictures": "10 photos numérique : <strong>100 euros</strong>",
+					"fifteen_pictures": "15 photos numérique : <strong>160 euros</strong>",
+					"all_pictures": "Galerie complète (min 50 images) : <strong>240 euros</strong>"
+				},
+				"client_cost": {
+					"title": "3.3 Frais à la charge du Client",
+					"travel_cost": "Frais de déplacement, Parking & Accès payant à certains lieux",
+					"description_travel_cost": "Lorsque le shooting a lieu à plus de 30 km du domicile professionnel du Photographe tel que déterminé art.1, les frais de déplacement applicables seront alors calculés à partir du 1er kilomètre hors forfait, au prix de 0,57 € le km, sur la base d'un trajet domicile professionnel du Photographe <-> lieu de shooting (aller/retour).",
+					"invoice": "La Photographe pourra adresser au Client une facture de <strong>frais complémentaires sur justificatifs</strong> suite à la signature du présent accord. Cette facture devra être payée à réception pour compenser les frais annexes dont le montant ne pouvait être déterminé en amont. (parking, péages, accès payants...)"
+				},
+				"total_price": {
+					"title": "3.4 Prix total",
+					"subtitle": "Ne comprend pas les frais complémentaires précités",
+					"upon_signature": "A signature, la photographe atteste avoir réceptionné les frais de séances qui valent pour réservation.<br/>Le prix total minimum après la séance est de 180 euros soit 120 euros de frais de séance réglés à réservation, s'ajoute à cela la formule photo initiale de 5 photos pour 60 euros à régler après la séance.",
+					"session_price_paid": "Prix des Frais de séances réglés:"
+				},
+				"payment_terms": {
+					"title": "3.5 Modalités de paiement",
+					"sign_contract": "Pour réserver la Photographe pour la date du shooting, le Client doit signer le présent contrat et payer un <strong>acompte</strong> correspondant aux frais de séances.<br/>Le second versement <strong>sera la formule photo, soit au minimum 60 € pour la formule photo de 5 (cinq) photos</strong>, étant dû après la séance à livraison de la galerie.",
+					"delay": "<strong>Tout retard ou non paiement</strong> donnera lieu au paiement d'intérêts au taux intérêt légal multiplié par trois, exigibles de plein droit et sans mise en demeure ou rappel, et la Photographe sera en droit de ne pas remettre les images dans l'attente du paiement complet.",
+					"means_of_payment": "Le Client dispose de différents moyens de paiement : virement bancaire (Iban :FR76 1910 6006 8443 6671 0335 620 / Bic : AGRIERPP891) ou chèque à l'ordre de Mégane Guisnet.",
+					"payment_method_choosen": "Modes de règlement choisis :",
+					"gift": "BONS CADEAUX",
+					"gift_description": "Les bons cadeaux achetés auprès du Photographe et offerts au Client bénéficiaire ne sont ni échangeables ni remboursables. Ces derniers sont valables 6 (six) mois à date d'achat. Le Client bénéficiaire du bon cadeau doit contacter le Photographe durant la date de validité stipulée sur celui-ci. Passée la date de validité, le bon cadeau est perdu."
+				},
+				"withdrawal_rights": {
+					"title": "3.6 Renonciation au droit de rétractation",
+					"agreement": "Le Client donne son accord préalable et exprès pour que l'exécution de la prestation commence avant la fin du délai de quatorze (14) jours et reconnaît avoir définitivement renoncé à son droit de rétractation, en application des dispositions du Code de la consommation (Art. 221-28, 1° , 3° et 13°).",
+					"extract": "Extraits des dispositions de l'Art. 221-28, 1° , 3° et 13° du Code de la consommation",
+					"extract_description": "“Le droit de rétractation ne peut être exercé pour les contrats :<br/><br/>1° De fourniture de services pleinement exécutés avant la fin du délai de rétractation et, si le contrat soumet le consommateur à une obligation de payer, dont l'exécution a commencé avec son accord préalable et exprès et avec la reconnaissance par lui de la perte de son droit de rétractation, lorsque la prestation aura été pleinement exécutée par le professionnel ; [...]<br/><br/>3° De fourniture de biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ; [...]<br/><br/>13° De fourniture d'un contenu numérique sans support matériel dont l'exécution a commencé avant la fin du délai de rétractation et, si le contrat soumet le consommateur à une obligation de payer, lorsque :<br/><br/>a) Il a donné préalablement son consentement exprès pour que l'exécution du contrat commence avant l'expiration du délai de rétractation ; et<br/>b) Il a reconnu qu'il perdra son droit de rétractation ; et</br>c) Le professionnel a fourni une confirmation de l'accord du consommateur conformément aux dispositions du deuxième alinéa de l'article L. 221-13.”"
+				}
 			}
 		}
 	}

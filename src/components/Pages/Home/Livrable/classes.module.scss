@@ -1,0 +1,27 @@
+.root {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+
+	.star-image {
+		margin: 0 auto;
+	}
+
+	.formula-container {
+		display: flex;
+		flex-direction: column;
+		gap: 12px;
+
+		.formula-list {
+			padding-left: 24px;
+		}
+	}
+
+	.client-cost-container,
+	.total-price-container,
+	.gift-container {
+		display: flex;
+		flex-direction: column;
+		gap: 12px;
+	}
+}
