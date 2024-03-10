@@ -1,0 +1,9 @@
+.root {
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+
+	.star-image {
+		margin: 0 auto;
+	}
+}
