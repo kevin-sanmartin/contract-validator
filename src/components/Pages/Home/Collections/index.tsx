@@ -19,86 +19,86 @@ const Collections: React.FC = () => {
 	return (
 		<section className={classes["root"]}>
 			<SectionTitle
-				upperTitle="pages.home.livrable.uppertitle"
-				title="pages.home.livrable.title"
-				subtitle="pages.home.livrable.subtitle"
+				upperTitle="pages.home.collections.uppertitle"
+				title="pages.home.collections.title"
+				subtitle="pages.home.collections.subtitle"
 			/>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.tva" />
+				<I18n map="pages.home.collections.tva" />
 			</Typography>
 
 			<Typography
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
 				isCentered>
-				<I18n map="pages.home.livrable.seance" />
+				<I18n map="pages.home.collections.seance" />
 			</Typography>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.price_warranted" />
+				<I18n map="pages.home.collections.price_warranted" />
 			</Typography>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.process" />
+				<I18n map="pages.home.collections.process" />
 			</Typography>
 
 			<Typography
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
 				isCentered>
-				<I18n map="pages.home.livrable.unique_price" />
+				<I18n map="pages.home.collections.unique_price" />
 			</Typography>
 
 			<Typography type={ETypographyType.P} weight={ETypographyWeight.MEDIUM}>
-				<I18n map="pages.home.livrable.fees" />
+				<I18n map="pages.home.collections.fees" />
 			</Typography>
 
 			<Typography
 				type={ETypographyType.P}
 				weight={ETypographyWeight.LIGHT}
 				fontStyle={ETypographyFontStyle.ITALIC}>
-				<I18n map="pages.home.livrable.perimeter" />
+				<I18n map="pages.home.collections.perimeter" />
 			</Typography>
 
 			<div className={classes["reservation-container"]}>
 				<Typography type={ETypographyType.P} weight={ETypographyWeight.MEDIUM}>
-					<I18n map="pages.home.livrable.seance_prices.reservation" />
+					<I18n map="pages.home.collections.seance_prices.reservation" />
 				</Typography>
 
 				<Typography
 					type={ETypographyType.P}
 					weight={ETypographyWeight.LIGHT}
 					fontStyle={ETypographyFontStyle.ITALIC}>
-					<I18n map="pages.home.livrable.seance_prices.reservation_description" />
+					<I18n map="pages.home.collections.seance_prices.reservation_description" />
 				</Typography>
 			</div>
 
 			<div className={classes["formula-container"]}>
 				<Typography type={ETypographyType.P} weight={ETypographyWeight.MEDIUM}>
-					<I18n map="pages.home.livrable.seance_prices.formula" />
+					<I18n map="pages.home.collections.seance_prices.formula" />
 				</Typography>
 
 				<ul className={classes["formula-list"]}>
 					<li>
 						<Typography type={ETypographyType.P}>
-							<I18n map="pages.home.livrable.seance_prices.five_pictures" />
+							<I18n map="pages.home.collections.seance_prices.five_pictures" />
 						</Typography>
 					</li>
 
 					<li>
 						<Typography type={ETypographyType.P}>
-							<I18n map="pages.home.livrable.seance_prices.ten_pictures" />
+							<I18n map="pages.home.collections.seance_prices.ten_pictures" />
 						</Typography>
 					</li>
 					<li>
 						<Typography type={ETypographyType.P}>
-							<I18n map="pages.home.livrable.seance_prices.fifteen_pictures" />
+							<I18n map="pages.home.collections.seance_prices.fifteen_pictures" />
 						</Typography>
 					</li>
 					<li>
 						<Typography type={ETypographyType.P}>
-							<I18n map="pages.home.livrable.seance_prices.all_pictures" />
+							<I18n map="pages.home.collections.seance_prices.all_pictures" />
 						</Typography>
 					</li>
 				</ul>
@@ -109,7 +109,7 @@ const Collections: React.FC = () => {
 					type={ETypographyType.H3}
 					weight={ETypographyWeight.MEDIUM}
 					isCentered>
-					<I18n map="pages.home.livrable.client_cost.title" />
+					<I18n map="pages.home.collections.client_cost.title" />
 				</Typography>
 
 				<Typography
@@ -117,16 +117,16 @@ const Collections: React.FC = () => {
 					weight={ETypographyWeight.LIGHT}
 					fontStyle={ETypographyFontStyle.ITALIC}
 					isCentered>
-					<I18n map="pages.home.livrable.client_cost.travel_cost" />
+					<I18n map="pages.home.collections.client_cost.travel_cost" />
 				</Typography>
 			</div>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.client_cost.description_travel_cost" />
+				<I18n map="pages.home.collections.client_cost.description_travel_cost" />
 			</Typography>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.client_cost.invoice" />
+				<I18n map="pages.home.collections.client_cost.invoice" />
 			</Typography>
 
 			<Image
@@ -142,7 +142,7 @@ const Collections: React.FC = () => {
 					type={ETypographyType.H3}
 					weight={ETypographyWeight.MEDIUM}
 					isCentered>
-					<I18n map="pages.home.livrable.total_price.title" />
+					<I18n map="pages.home.collections.total_price.title" />
 				</Typography>
 
 				<Typography
@@ -150,16 +150,16 @@ const Collections: React.FC = () => {
 					weight={ETypographyWeight.LIGHT}
 					fontStyle={ETypographyFontStyle.ITALIC}
 					isCentered>
-					<I18n map="pages.home.livrable.total_price.subtitle" />
+					<I18n map="pages.home.collections.total_price.subtitle" />
 				</Typography>
 			</div>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.total_price.upon_signature" />
+				<I18n map="pages.home.collections.total_price.upon_signature" />
 			</Typography>
 
 			<Typography type={ETypographyType.P} weight={ETypographyWeight.MEDIUM}>
-				<I18n map="pages.home.livrable.total_price.session_price_paid" />
+				<I18n map="pages.home.collections.total_price.session_price_paid" />
 			</Typography>
 
 			<Image
@@ -174,32 +174,32 @@ const Collections: React.FC = () => {
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
 				isCentered>
-				<I18n map="pages.home.livrable.payment_terms.title" />
+				<I18n map="pages.home.collections.payment_terms.title" />
 			</Typography>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.payment_terms.sign_contract" />
+				<I18n map="pages.home.collections.payment_terms.sign_contract" />
 			</Typography>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.payment_terms.delay" />
+				<I18n map="pages.home.collections.payment_terms.delay" />
 			</Typography>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.payment_terms.means_of_payment" />
+				<I18n map="pages.home.collections.payment_terms.means_of_payment" />
 			</Typography>
 
 			<Typography type={ETypographyType.P} weight={ETypographyWeight.MEDIUM}>
-				<I18n map="pages.home.livrable.payment_terms.payment_method_choosen" />
+				<I18n map="pages.home.collections.payment_terms.payment_method_choosen" />
 			</Typography>
 
 			<div className={classes["gift-container"]}>
 				<Typography type={ETypographyType.H3} weight={ETypographyWeight.MEDIUM}>
-					<I18n map="pages.home.livrable.payment_terms.gift" />
+					<I18n map="pages.home.collections.payment_terms.gift" />
 				</Typography>
 
 				<Typography type={ETypographyType.P}>
-					<I18n map="pages.home.livrable.payment_terms.gift_description" />
+					<I18n map="pages.home.collections.payment_terms.gift_description" />
 				</Typography>
 			</div>
 
@@ -215,19 +215,19 @@ const Collections: React.FC = () => {
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
 				isCentered>
-				<I18n map="pages.home.livrable.withdrawal_rights.title" />
+				<I18n map="pages.home.collections.withdrawal_rights.title" />
 			</Typography>
 
 			<Typography type={ETypographyType.P}>
-				<I18n map="pages.home.livrable.withdrawal_rights.agreement" />
+				<I18n map="pages.home.collections.withdrawal_rights.agreement" />
 			</Typography>
 
 			<Typography type={ETypographyType.P} weight={ETypographyWeight.MEDIUM}>
-				<I18n map="pages.home.livrable.withdrawal_rights.extract" />
+				<I18n map="pages.home.collections.withdrawal_rights.extract" />
 			</Typography>
 
 			<Typography type={ETypographyType.P} fontStyle={ETypographyFontStyle.ITALIC}>
-				<I18n map="pages.home.livrable.withdrawal_rights.extract_description" />
+				<I18n map="pages.home.collections.withdrawal_rights.extract_description" />
 			</Typography>
 		</section>
 	);

@@ -46,7 +46,7 @@
 				"people": "Personne(s) photographiée(s)<br/>durant la séance: nom / prénom<br/>et specification age si mineur",
 				"style": "Le Client déclare connaître le style du Photographe. Aucune demande ne pourra par conséquent être formulée à l'encontre du Photographe sur le prétexte que le style des photographies ne conviendrait pas au Client ou aux personnes représentées."
 			},
-			"livrable": {
+			"collections": {
 				"uppertitle": "Art. 3",
 				"title": "Collections & Livrables",
 				"subtitle": "Collections & Livrables retenus - Paiement<br/>Renonciation au droit de rétractation",
