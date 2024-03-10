@@ -15,7 +15,7 @@ import classes from "./classes.module.scss";
 
 const starImagePath = "/design/star.png";
 
-const Livrable: React.FC = () => {
+const Collections: React.FC = () => {
 	return (
 		<section className={classes["root"]}>
 			<SectionTitle
@@ -233,4 +233,4 @@ const Livrable: React.FC = () => {
 	);
 };
 
-export default Livrable;
+export default Collections;

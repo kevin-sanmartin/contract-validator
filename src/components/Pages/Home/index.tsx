@@ -4,7 +4,7 @@
 import CoverPage from "./CoverPage";
 import Parts from "./Parts";
 import Object from "./Object";
-import Livrable from "./Livrable";
+import Collections from "./Collections";
 
 // Styles
 import classes from "./classes.module.scss";
@@ -15,7 +15,7 @@ export default function Home() {
 			<CoverPage />
 			<Parts />
 			<Object />
-			<Livrable />
+			<Collections />
 		</main>
 	);
 }
