@@ -1,0 +1,15 @@
+.root {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+
+	.star-image {
+		margin: 0 auto;
+	}
+
+	.illustration-container {
+		display: flex;
+		flex-direction: column;
+		gap: 12px;
+	}
+}

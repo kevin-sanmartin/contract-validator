@@ -121,6 +121,26 @@
 					"responsible": "Cependant, une fois les images HD livrées, <strong>les Clients restent seuls responsables de la préservation des photographies</strong>, et devront s'assurer de mettre en place les sauvegardes requises par leurs propres moyens. Il ne pourra en aucun cas être exigé du Photographe de reproduire ou de remplacer les images qui auraient été perdues, volées ou détruites.",
 					"backup": "Il leur est par conséquent fortement recommandé d'effectuer des copies de sauvegarde régulières, <strong>au plus tard tous les cinq (5) ans.</strong>"
 				}
+			},
+			"collaboration": {
+				"uppertitle": "Art. 5",
+				"title": "Collaboration",
+				"obligation": {
+					"title": "5.1 Obligation de collaboration du Client",
+					"service": "Les Parties reconnaissent que le bon déroulement de la prestation photographique <strong>dépend de leur capacité à collaborer pour atteindre l'objectif souhaité</strong>, étant rappelé qu'à l'impossible nul n'est tenu, l'obligation du Photographe reste une obligation de moyens, et non une obligation de résultat.",
+					"good_faith": "<strong>Chacune des Parties s'engage individuellement à collaborer</strong> en toute bonne foi pour contribuer à la bonne exécution de l'ensemble des obligations du présent accord.<br/><strong>Tout manquement grave à cette obligation</strong> pourra justifier la non-exécution de l'obligation qui dépend de cette collaboration par la ou les autres Parties",
+					"no_claim": "Le Client se porte fort du respect par la ou les personnes qui seront photographiées de cette obligation de collaboration, et reconnait <strong>qu'aucune réclamation</strong> ne pourra être formulée à l'encontre du Photographe si les personnes représentées n'ont pas respecté ladite obligation."
+				},
+				"illustration": {
+					"title": "5.2 Illustrations",
+					"subtitle": "liste non exhaustive ",
+					"aforementioned_obligation": "L'obligation de collaboration précitée emporte notamment les conséquences suivantes, à titre d'illustration:",
+					"available": "<strong>Le Client s'engage à communiquer avec les personnes qui seront photographiées</strong> à sa demande pour que celles-ci se rendent disponibles avant le shooting pour s'entretenir de l'organisation avec la Photographe, et naturellement le jour dudit shooting.",
+					"request": "De même, la Photographe s'engage à se rendre disponible pour répondre aux questionnements pertinents du Client et des personnes qui seront photographiées, dans la limite du raisonnable.",
+					"responsability": "Le Client reconnaît que la Photographe ne pourra pas se voir reprocher l'absence de coopération de telle ou telle personne qui ne serait pas disposée à être photographiée et/ou à suivre ses instructions. La responsabilité du Photographe ne pourra naturellement pas être recherchée si une des personnes qui seront photographiées gênait le bon déroulement de la prestation.",
+					"guarantee": "Etant donné la nature intrinsèquement imprévisible de la photographie (par exemple : photo d'enfants/bébés, photo en extérieur...), <strong>la Photographe ne peut garantir la livraison d'une image précise attendue par le Client</strong> ou les personnes photographiées.",
+					"delay": "Le Client reconnaît comprendre que <strong>tout retard</strong> de la part d'une ou plusieurs des personnes devant être photographiées est susceptible de pénaliser lourdement la Photographe dans l'organisation de sa journée. Par conséquent, le Client accepte que tout retard d'une ou plusieurs personnes devant être photographiées, soit déduit du temps de la séance. Il n'y aura pas de report, et, dans tous les cas, <strong>l'intégralité du prix reste due par le Client.</strong>"
+				}
 			}
 		}
 	}
