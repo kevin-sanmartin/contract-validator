@@ -189,10 +189,6 @@ const Collections: React.FC = () => {
 				<I18n map="pages.home.collections.payment_terms.means_of_payment" />
 			</Typography>
 
-			<Typography type={ETypographyType.P} weight={ETypographyWeight.MEDIUM}>
-				<I18n map="pages.home.collections.payment_terms.payment_method_choosen" />
-			</Typography>
-
 			<div className={classes["gift-container"]}>
 				<Typography type={ETypographyType.H3} weight={ETypographyWeight.MEDIUM}>
 					<I18n map="pages.home.collections.payment_terms.gift" />
