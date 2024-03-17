@@ -141,6 +141,42 @@
 					"guarantee": "Etant donné la nature intrinsèquement imprévisible de la photographie (par exemple : photo d'enfants/bébés, photo en extérieur...), <strong>la Photographe ne peut garantir la livraison d'une image précise attendue par le Client</strong> ou les personnes photographiées.",
 					"delay": "Le Client reconnaît comprendre que <strong>tout retard</strong> de la part d'une ou plusieurs des personnes devant être photographiées est susceptible de pénaliser lourdement la Photographe dans l'organisation de sa journée. Par conséquent, le Client accepte que tout retard d'une ou plusieurs personnes devant être photographiées, soit déduit du temps de la séance. Il n'y aura pas de report, et, dans tous les cas, <strong>l'intégralité du prix reste due par le Client.</strong>"
 				}
+			},
+			"copyright": {
+				"uppertitle": "Art. 6",
+				"title": "Droits d'auteur<br/>& Droit à l'image",
+				"photographer_copyright": {
+					"title": "6.1  Droits d'auteur du Photographe",
+					"original_work": "Le Client reconnaît que les photographies réalisées par la Photographe restent l'œuvre originale de ce dernier, qui seul détient des droits d'auteur dessus.",
+					"personnal_use": "Le Client reconnaît ne pouvoir par conséquent faire qu'une <strong>utilisation personnelle, dans le cadre purement familial et amical</strong> (c'est-à-dire restreint aux personnes photographiées, et, éventuellement, à leurs contacts privés sur les réseaux sociaux tels Facebook et Instagram), des photographies qui lui seront remises au terme de la prestation objet du présent accord. Toute autre utilisation, à titre onéreux ou non, devra faire l'objet d'un nouvel accord écrit entre les Parties ou, directement, entre la Photographe et les personnes photographiées.",
+					"violation": "Le Client reconnaît que toute violation de sa part ou de celle de tiers (notamment les personnes photographiées) auxquels il aurait transmis les photographies est susceptible d'entraîner des poursuites, notamment sur le fondement de la contrefaçon de droits d'auteur, délit civil et pénal.",
+					"modify": "Toujours en vertu du droit d'auteur, <strong>le Client s'engage à ne pas modifier les photographies</strong> qui lui seront remises (pas de recadrage, retouches ou autre). Toute demande de modification devra être adressée au Photographe et fera l'objet d'un devis complémentaire.",
+					"rules": "Le Client se porte fort du <strong>respect de ces règles par les tiers</strong>, auxquels il transmettra des images, notamment les personnes photographiées.",
+					"reproduce": "Le Client et les personnes photographiées sont autorisés à reproduire les fichiers et à les enregistrer sur tout support qu'ils souhaitent dans un <strong>seul but de conservation</strong>, uniquement pour leur usage personnel et privé, et sous leur seule responsabilité.",
+					"cite": "En cas de publication des photographies par le Client ou les personnes photographiées, ceux-ci s'engagent <strong>à citer le nom du Photographe et à mentionner le lien vers son site internet. (*)</strong>",
+					"links": "(*) Site internet de la photographe: www.meganeguisnet.com<br/>Instagram : megane_guisnet<br/>Facebook : Compte : Mégane Guisnet / Page : Mégane Guisnet Photographe"
+				},
+				"image_rights": {
+					"title": "6.2 Droit à l'image des personnes photographiées",
+					"signature": "Le Client se porte fort de la signature par chacune des personnes photographiées à sa demande d'une <strong>cession de droit à l'image</strong> relative aux photographies les représentant. Concernant les personnes mineures, le Client se porte fort de la signature pour chacune d'elles d'une cession de droit à l'image relative aux photographies les représentant par l'ensemble des détenteurs de l'autorité parentale.",
+					"agreement": {
+						"title": "Cet accord prévoiera que les personnes photographiées acceptent que les photographies les représentant puissent être utilisées par la Photographe - <strong>pour une durée de cinq (5) ans renouvelable tacitement</strong> selon les mêmes termes et pour une même durée, et ainsi de suite - sur les supports suivants (à cocher en fonction de ce que le Client accepte):",
+						"choice_1": "<strong>Tous les cas ci-dessous</strong>",
+						"choice_2": "Site web/porfolio virtuel hors réseaux sociaux",
+						"choice_3": "Site web/ portfolio virtuel et réseaux sociaux",
+						"choice_4": "Tous supports promotionnels de l'activité du Photographe, notamment cartes de visite, books, flyers, affiches",
+						"choice_5": "Magazines (papiers et/ou digitaux) dédiés à la photographie en général et/ou à la photographie de portrait social",
+						"choice_6": "Blogs dédiés à la photographie en général et/ou à la photographie sociale",
+						"choice_7": "Exposition ou ouvrage dédiés notamment à l'oeuvre du Photographe",
+						"choice_8": "Concours photographique sur le thème de la photographie de sociale / de portraits",
+						"choice_9": "Illustration dans le cadre d'une formation dispensée par le Photographe"
+					},
+					"choice": "Cela peut être au choix par le client:",
+					"all_images": "D'une part: L'entièreté des images choisies par le client en fonction de la formule photo choisie après la séance ( 5 / 10 / 15 ou la galerie complète).",
+					"certain_images": "Soit: Une décision de certaines images uniquement à décider à réception de la galerie finale.",
+					"prohibited": "La Photographe <strong>s'interdit de faire un usage des images précitées dépassant les utilisations visées</strong>, sauf nouvel accord écrit entre les Parties.",
+					"reputation": "Les éventuels commentaires ou légendes accompagnant la reproduction ou la représentation des photos ne devront naturellement pas porter atteinte à l'image et/ou à la réputation des personnes photographiées ou du Photographe."
+				}
 			}
 		}
 	}

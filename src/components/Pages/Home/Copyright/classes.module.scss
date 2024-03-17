@@ -1,0 +1,23 @@
+.root {
+	display: flex;
+	flex-direction: column;
+	gap: 48px;
+
+	.star-image {
+		margin: 0 auto;
+	}
+
+	.title-container {
+		display: flex;
+		flex-direction: column;
+		gap: 12px;
+	}
+
+	.checkbox-buttons-container {
+		display: flex;
+		flex-direction: column;
+		gap: 12px;
+		max-width: 800px;
+		margin: 0 auto;
+	}
+}
