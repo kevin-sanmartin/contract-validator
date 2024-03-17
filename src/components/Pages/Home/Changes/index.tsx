@@ -4,7 +4,6 @@ import Image from "next/image";
 // Components
 import SectionTitle from "@Components/Materials/SectionTitle";
 import Typography, {
-	ETypographyFontStyle,
 	ETypographyType,
 	ETypographyWeight,
 } from "@Components/Elements/Typography";
