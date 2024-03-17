@@ -8,6 +8,7 @@ import Collections from "./Collections";
 import Livrable from "./Livrable";
 import Collaboration from "./Collaboration";
 import Copyright from "./Copyright";
+import Changes from "./Changes";
 
 // Styles
 import classes from "./classes.module.scss";
@@ -22,6 +23,7 @@ export default function Home() {
 			<Livrable />
 			<Collaboration />
 			<Copyright />
+			<Changes />
 		</main>
 	);
 }

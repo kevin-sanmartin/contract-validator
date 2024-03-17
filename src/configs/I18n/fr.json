@@ -177,6 +177,31 @@
 					"prohibited": "La Photographe <strong>s'interdit de faire un usage des images précitées dépassant les utilisations visées</strong>, sauf nouvel accord écrit entre les Parties.",
 					"reputation": "Les éventuels commentaires ou légendes accompagnant la reproduction ou la représentation des photos ne devront naturellement pas porter atteinte à l'image et/ou à la réputation des personnes photographiées ou du Photographe."
 				}
+			},
+			"changes": {
+				"uppertitle": "Art. 7",
+				"title": "Changements",
+				"subtitle": "Changements de date - Annulation<br/>Cas de force majeure",
+				"force_majeure": {
+					"title": "7.1  Force majeure empêchant<br/>le Photographe de réaliser sa prestation",
+					"reschedule": "En cas d'empêchement du Photographe, imprévisible et indépendant de sa volonté, celui-ci <strong>s'engage à fournir ses meilleurs efforts pour reporter dans les meilleurs délai ou de trouver un substitu</strong>, sans surcoût pour le Client. Toutefois, il s'agit d'une simple obligation de moyens, et l'impossibilité pour lui de trouver un remplaçant dans les délais impartis libérera, s'il en justifie, le Photographe de toute obligation."
+				},
+				"refusal": {
+					"title": "7.2 En cas de refus ou nombreux reports de la prestation par le client",
+					"renounces": "Dans le cas où le Client changerait d'avis et renoncerait à la prestation, ou souhaiterai reporter la séance sans justifications valable, <strong>l'acompte versé sera conservé</strong> ainsi que toute autre somme perçue, et la formule photo minimum sera due au Photographe par le client."
+				},
+				"renegociation": {
+					"title": "7.3 Empêchement - Renégociation entre<br/>les Parties et avec l'aide des personnes<br/>qui doivent être photographiées",
+					"alternative_solution": "<strong>En cas d'évènement empêchant le déroulement normal à la date prévue de la séance</strong> et indépendant de la volonté des Parties et des personnes qui doivent être photographiées, une solution alternative sera négociée de bonne foi entre les Parties, avec le concours des personnes devant être photographiées, dès que possible, afin de tenter de respecter au mieux l'esprit collaboratif du contrat. La séance peut être reportée jusqu'à deux fois pour des raisons que la photographe trouvera acceptable ou non (météo, maladie...)",
+					"consequences": "<strong>Le Client reconnaît que cette renégociation peut avoir pour conséquence</strong>, dans certains cas, d'altérer partiellement ou totalement le résultat des prises de vue et la qualité de celles-ci, sans que la responsabilité du Photographe ne puisse naturellement être engagée. En outre, le Client reconnait qu'un changement de date, s'il était envisagé, pourra entraîner une hausse des tarifs du Photographe, notamment si l'évènement devait se tenir l'année calendaire suivante."
+				},
+				"agreement": {
+					"title": "7.4 En cas de besoin de renégocier<br/>un point du présent accord",
+					"renegociate": "<strong>Si, en raison d'un événement indépendant de la volonté des Parties (par exemple, maladie du Photographe et/ou des personnes devant être photographiées à la demande du Client, catastrophe naturelle, etc…), l'une d'elles souhaitait renégocier un point du présent accord :</strong>",
+					"respond_quickly": "L'autre Partie s'engage à répondre rapidement <strong>par écrit, et au plus tard 72h</strong> après réception de la demande écrite précitée, en proposant éventuellement trois autres dates proches, dans le respect de l'obligation de collaboration précitée à l'Article 5.",
+					"effectiveness": "Au besoin, les personnes devant être photographiées pourront être conviées à la réunion fixée, pour s'assurer de l'effectivité des décisions à prendre (par exemple, en cas d'accord sur un changement de date et/ou de lieu), cet accord dépendant naturellement de leurs disponibilités.",
+					"mediator": "A défaut d'accord survenu entre les Parties, la plus diligente d'entre elle pourra saisir le Médiateur de la consommation selon la procédure prévue à l'Article 9 qui ci-dessous, ou saisir le juge compétent."
+				}
 			}
 		}
 	}
