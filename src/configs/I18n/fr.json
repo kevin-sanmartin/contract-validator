@@ -202,6 +202,18 @@
 					"effectiveness": "Au besoin, les personnes devant être photographiées pourront être conviées à la réunion fixée, pour s'assurer de l'effectivité des décisions à prendre (par exemple, en cas d'accord sur un changement de date et/ou de lieu), cet accord dépendant naturellement de leurs disponibilités.",
 					"mediator": "A défaut d'accord survenu entre les Parties, la plus diligente d'entre elle pourra saisir le Médiateur de la consommation selon la procédure prévue à l'Article 9 qui ci-dessous, ou saisir le juge compétent."
 				}
+			},
+			"signature": {
+				"uppertitle": "Art. 8",
+				"title": "Signatures",
+				"subtitle": "Accord des deux partis",
+				"read_and_approve": {
+					"title": "Les signatures doivent être précédées de la mention suivante : « lu et approuve » et chaque feuilles du présent contrat paraphées.",
+					"customer": "D'une part le client",
+					"photographer": "D'autre part la photographe",
+					"undersigned": "Je soussigné (Nom et prénom du client):",
+					"honor": "nous engageons à honorer le présent contrat avec la photographe Mégane Guisnet."
+				}
 			}
 		}
 	}
