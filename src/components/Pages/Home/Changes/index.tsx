@@ -22,15 +22,18 @@ const Changes: React.FC = () => {
 				title="pages.home.changes.title"
 				subtitle="pages.home.changes.subtitle"
 			/>
+
 			<Typography
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
 				isCentered>
 				<I18n map="pages.home.changes.force_majeure.title" />
 			</Typography>
+
 			<Typography type={ETypographyType.P}>
 				<I18n map="pages.home.changes.force_majeure.reschedule" />
 			</Typography>
+
 			<Image
 				src={starImagePath}
 				alt="star"
@@ -38,15 +41,18 @@ const Changes: React.FC = () => {
 				height={100}
 				className={classes["star-image"]}
 			/>
+
 			<Typography
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
 				isCentered>
 				<I18n map="pages.home.changes.refusal.title" />
 			</Typography>
+
 			<Typography type={ETypographyType.P}>
 				<I18n map="pages.home.changes.refusal.renounces" />
 			</Typography>
+
 			<Image
 				src={starImagePath}
 				alt="star"
@@ -54,18 +60,22 @@ const Changes: React.FC = () => {
 				height={100}
 				className={classes["star-image"]}
 			/>
+
 			<Typography
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
 				isCentered>
 				<I18n map="pages.home.changes.renegociation.title" />
 			</Typography>
+
 			<Typography type={ETypographyType.P}>
 				<I18n map="pages.home.changes.renegociation.alternative_solution" />
 			</Typography>
+
 			<Typography type={ETypographyType.P}>
 				<I18n map="pages.home.changes.renegociation.consequences" />
 			</Typography>
+
 			<Image
 				src={starImagePath}
 				alt="star"
@@ -73,6 +83,7 @@ const Changes: React.FC = () => {
 				height={100}
 				className={classes["star-image"]}
 			/>
+
 			<Typography
 				type={ETypographyType.H3}
 				weight={ETypographyWeight.MEDIUM}
